@@ -2,6 +2,8 @@
 
 This recipe app was built in an hour one afternoon to further my knowledge of using APIs with React Apps. 
 
+You can sign up for the API Developer Portal here: https://developer.edamam.com/edamam-recipe-api
+
 If you'd like to run this application on your local system, please follow the below steps. 
 
 ## Setup 
